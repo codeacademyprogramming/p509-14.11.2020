@@ -1,4 +1,4 @@
-# Front-End, HTML Lesson 3 - Homework (14.11.2020)
+# Front-End Lesson 3, CSS - Homework (14.11.2020)
 
 1. **[QUIZ: Well aimed? How well do you know CSS selectors?](https://codepen.io/pehaa/full/ROapJZ)**
 2. **Selectors explained & playground:**
